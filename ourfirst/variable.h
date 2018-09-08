@@ -7,6 +7,7 @@ class variable
 private:
 	double m_poteny;
 	double m_koefiyient;
+	char m_buchstabe;
 public:
 	variable();
 
